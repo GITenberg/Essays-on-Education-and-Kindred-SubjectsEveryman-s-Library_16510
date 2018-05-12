@@ -1,0 +1,46 @@
+_repo: Essays-on-Education-and-Kindred-SubjectsEveryman-s-Library_16510
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Eliot, Charles William
+    birthdate: 1834
+    deathdate: 1926
+    gutenberg_agent_id: '6399'
+    url: http://www.gutenberg.org/2009/agents/6399
+    wikipedia: http://en.wikipedia.org/wiki/Charles_William_Eliot
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spencer, Herbert
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '1887'
+    url: http://www.gutenberg.org/2009/agents/1887
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
+description: 'Title; Contents; Herbert Spencer; Introduction; Education: Intellectual,
+  Moral, and Physical; PART I ON EDUCATION; What Knowledge is of Most Worth?; Intellectual
+  Education; Moral Education; Physical Education; PART II ESSAYS ON KINDRED SUBJECTS;
+  Progress: Its Law and Cause; On Manners and Fashion; On the Genesis of Science;
+  On the Physiology of Laughter; On the Origin and Function of Music; Endnotes.'
+gutenberg_issued: '2005-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'AC'
+tableOfContents: 'Education: intellectual, moral, and physical: What knowledge is
+  of most worth? Intellectual education. Moral education. Physical education -- Essays
+  on kindred subjects: Progress: its law and cause. On manners and fashion. On the
+  genesis of science. On the physiology of laughter. On the origin and function of
+  music.'
+title: 'Essays on Education and Kindred Subjects
+
+  Everyman''s Library'
+url: http://www.gutenberg.org/ebooks/16510
